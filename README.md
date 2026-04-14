@@ -149,7 +149,7 @@ sudo rmmod monitor
 | 1 | **Multi-container supervision** — two or more containers running under one supervisor process | ![Multi Container Supervision](screenshots/Screenshots/multi_container.png) |
 | 2 | **Metadata tracking** — output of `engine ps` showing tracked container metadata | ![Metadata Tracking](screenshots/Screenshots/metadata.png) |
 | 3 | **Bounded-buffer logging** — log file contents and evidence of producer/consumer pipeline activity | ![Bounded Buffer](screenshots/Screenshots/bounded_buffer.png) |
-| 4 | **CLI and IPC** — a CLI command being issued and the supervisor responding over the control channel | ![CPU Usage](screenshots/Screenshots/Screenshot_from_2026-04-14 01-34-10.png) |
+| 4 | **CLI and IPC** — a CLI command being issued and the supervisor responding over the control channel | ![CPU Usage](screenshots/Screenshots/CLI_and_IPC.png) |
 | 5 | **Soft-limit warning** — `dmesg` or log output showing a soft-limit warning event | ![Soft Limit](screenshots/Screenshots/soft_and_hard.png) |
 | 6 | **Hard-limit enforcement** — `dmesg` or log output showing a container killed at the hard limit, with supervisor metadata updated | ![Hard Limit](screenshots/Screenshots/module_unload.png) |
 | 7 | **Scheduling experiment** — terminal output or measurements from a scheduling experiment with observable differences | ![Execution time](screenshots/Screenshots/exec_time.png) |
