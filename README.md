@@ -4,7 +4,7 @@
 
 | Name | SRN |
 |------|-----|
-| Hariom K Nini | PES2UG24CS672 |
+| Hariom N Kini | PES2UG24CS672 |
 | Atul Kandiyil | PES2UG24CS920 |
 
 ---
